@@ -1,3 +1,4 @@
-## Jolt
+# Jolt | A Future Rust Project
+![Jolt Banner](https://user-images.githubusercontent.com/45884264/217334007-fe25297b-b3e3-4b84-a647-14a000fb2454.svg)
 
-![Jolt-Banner](https://user-images.githubusercontent.com/45884264/216884666-0596bc97-d186-486b-89e6-afe66d2b1886.png)
+### Stay Tuned!
