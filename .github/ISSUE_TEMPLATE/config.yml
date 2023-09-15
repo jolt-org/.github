@@ -1,0 +1,11 @@
+blank_lines_enabled: true
+contact_links:
+  - name: Jolt Documentation
+    url: https://docs.jolt.rs/
+    about: Official Jolt documentation - please check here before opening an issue.
+  - name: Jolt Website
+    url: https://jolt.rs/
+    about: Main Jolt website - for details about Jolt's projects.
+  - name: Discord
+    url: https://discord.gg/XpFNTjjtTK
+    about: Join our Discord community to chat or get in touch with the maintainers.
