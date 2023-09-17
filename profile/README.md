@@ -36,10 +36,6 @@
 
 All Jolt projects are subject to the [Code of Conduct][conduct]. Please review this to know how to interact with us.
 
-### Community Links
-[![Discord](https://img.shields.io/discord/1149784127659319356?color=blue&label=chat%20on%20discord&logo=discord)](https://discord.gg/XpFNTjjtTK)
-
-
 [home]: https://jolt.rs/
 [docs]: https://docs.jolt.rs/
 [contrib]: https://docs.jolt.rs/latest/contribution-guide.html
