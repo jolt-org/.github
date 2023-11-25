@@ -11,10 +11,7 @@
 
 </div>
 
-# Jolt | An organization for a future group of projects
-
-> [!IMPORTANT]\
-> Stay Tuned!
+# Jolt | Sparking Open Source Collaboration
 
 ### Project Information:
 * [Jolt Project - Home][home]
@@ -40,10 +37,10 @@ All Jolt projects are subject to the [Code of Conduct][conduct]. Please review t
 [docs]: https://docs.jolt.rs/
 [contrib]: https://docs.jolt.rs/latest/contribution-guide.html
 [releases]: https://jolt.rs/about/jolt-releases.html
-[conduct]: https://github.com/jolt-org/.github/blob/main/CODE_OF_CONDUCT.md
 [orgstruct]: https://jolt.rs/about/organization.html
-[newissue]: https://github.com/jolt-org/jolt/issues/new/choose
+[newissue]: https://github.com/jolt-org/meta/issues/new/choose
 [openissues]: https://github.com/search?q=user%3Ajolt-org+state%3Aopen&type=Issues&ref=advsearch&l=&l=
 [discussion]: https://github.com/orgs/jolt-org/discussions/new/choose
-[security]: https://github.com/jolt-org/jolt/security/policy
+[conduct]: https://github.com/jolt-org/.github/blob/main/CODE_OF_CONDUCT.md
+[security]: https://github.com/jolt-org/.github/security/policy
 [support]: https://github.com/jolt-org/.github/blob/main/SUPPORT.md
